@@ -2,7 +2,8 @@
 
 I'm a Web App Developer from 🌵 **Las Cruces, New Mexico** (which is actually apart of the 🇺🇸 **United States** contrary to popular belief). I graduated with a 👨🏻‍🎓 **B.A. in Computer Science** from New Mexico State University in 2019. Since then, I've gone off the deep-end into the world of development and **absolutely love it!** I couldn't imagine doing anything else ❤️
 
-<h3>My current 🍞 bread and 🧈 butter:</h3>
+### The current 🍞 bread and 🧈 butter
+
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -15,6 +16,18 @@ I'm a Web App Developer from 🌵 **Las Cruces, New Mexico** (which is actually 
   <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
   <img alt="MSW" src="https://img.shields.io/badge/-MSW-ff6a33?style=flat-square&logo=msw&logoColor=white" />
 </p>
+
+### Favorite Podcasts 🎙
+* [Syntax - Tasty Web Development Treats](https://open.spotify.com/show/4kYCRYJ3yK5DQbP5tbfZby)
+* [Front End Happy Hour](https://open.spotify.com/show/0Giuw6eNbTzP9CDZODDrA2)
+* [The Changelog](https://open.spotify.com/show/5bBki72YeKSLUqyD94qsuJ)
+* [iteration](https://open.spotify.com/show/4yw0xZLBNlgtibNITY99K1)
+
+### Favorite Blogs 📘
+* [Kent C. Dodds](https://kentcdodds.com/)
+* [Overreacted](https://overreacted.io/)
+
+---
 
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=m1yon&count_private=true&show_icons=true&theme=react)
 
