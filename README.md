@@ -1,6 +1,9 @@
-### Hey there, my name is Michael!
+# Hey there, my name is Michael 👋🏻
+
+<p>Welcome to my GitHub profile! </br> I'm Michael, Web App Developer from 🌵 <b>Las Cruces, New Mexico</b> (which is actually apart of the 🇺🇸 <b>United States</b> contrary to popular belief). </p>
 
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=m1yon&count_private=true&show_icons=true&theme=react)
+
 
 <!--
 **m1yon/m1yon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
