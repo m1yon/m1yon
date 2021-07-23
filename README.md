@@ -1,6 +1,6 @@
 # Hey there, my name is Michael 👋🏻
 
-<p>Welcome to my GitHub profile! </br> I'm Michael, Web App Developer from 🌵 <b>Las Cruces, New Mexico</b> (which is actually apart of the 🇺🇸 <b>United States</b> contrary to popular belief). </p>
+I'm a Web App Developer from 🌵 **Las Cruces, New Mexico** (which is actually apart of the 🇺🇸 **United States** contrary to popular belief). I graduated with a 👨🏻‍🎓 **B.A. in Computer Science** from New Mexico State University in 2019. Since then, I've gone off the deep-end into the world of development and **absolutely love it!** I couldn't imagine doing anything else ❤️
 
 <h3>My current 🍞 bread and 🧈 butter:</h3>
 <p>
