@@ -17,13 +17,13 @@ I'm a Web App Developer from 🌵 **Las Cruces, New Mexico** (which is actually 
   <img alt="MSW" src="https://img.shields.io/badge/-MSW-ff6a33?style=flat-square&logo=msw&logoColor=white" />
 </p>
 
-### Favorite Podcasts 🎙
+### 🎙 Favorite Podcasts
 * [Syntax - Tasty Web Development Treats](https://open.spotify.com/show/4kYCRYJ3yK5DQbP5tbfZby)
 * [Front End Happy Hour](https://open.spotify.com/show/0Giuw6eNbTzP9CDZODDrA2)
 * [The Changelog](https://open.spotify.com/show/5bBki72YeKSLUqyD94qsuJ)
 * [iteration](https://open.spotify.com/show/4yw0xZLBNlgtibNITY99K1)
 
-### Favorite Blogs 📘
+### 📘 Favorite Blogs
 * [Kent C. Dodds](https://kentcdodds.com/)
 * [Overreacted](https://overreacted.io/)
 
