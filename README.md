@@ -12,7 +12,7 @@ I'm a Web App Developer from 🌵 **Las Cruces, New Mexico** (which is actually 
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-333?style=flat-square&logo=Next.js&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=Jest&logoColor=white" />
-  <img alt="React Testing Library" src="https://img.shields.io/badge/-React_Testing_Library-f74141?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="React Testing Library" src="https://img.shields.io/badge/-React_Testing_Library-f74141?style=flat-square&logo=react_testing_library&logoColor=white" />
   <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" />
   <img alt="MSW" src="https://img.shields.io/badge/-MSW-ff6a33?style=flat-square&logo=msw&logoColor=white" />
 </p>
@@ -30,19 +30,3 @@ I'm a Web App Developer from 🌵 **Las Cruces, New Mexico** (which is actually 
 ---
 
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=m1yon&count_private=true&show_icons=true&theme=react)
-
-
-<!--
-**m1yon/m1yon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
