@@ -20,7 +20,6 @@ I'm a Web App Developer from 🌵 **Las Cruces, New Mexico** (which is actually 
 ### 🎙 Favorite Podcasts
 * [Syntax - Tasty Web Development Treats](https://open.spotify.com/show/4kYCRYJ3yK5DQbP5tbfZby)
 * [Front End Happy Hour](https://open.spotify.com/show/0Giuw6eNbTzP9CDZODDrA2)
-* [The Changelog](https://open.spotify.com/show/5bBki72YeKSLUqyD94qsuJ)
 * [iteration](https://open.spotify.com/show/4yw0xZLBNlgtibNITY99K1)
 
 ### 📘 Favorite Blogs
