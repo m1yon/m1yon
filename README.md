@@ -19,8 +19,8 @@ I'm a Web App Developer currently living in 🌵 **Las Cruces, NM** (soon to be 
 
 ### 🎙 Favorite Podcasts
 * [Syntax - Tasty Web Development Treats](https://open.spotify.com/show/4kYCRYJ3yK5DQbP5tbfZby)
+* [Soft Skills Engineering](https://open.spotify.com/show/59I1XnvAB9fQzSj9SIKCoI)
 * [Front End Happy Hour](https://open.spotify.com/show/0Giuw6eNbTzP9CDZODDrA2)
-* [iteration](https://open.spotify.com/show/4yw0xZLBNlgtibNITY99K1)
 
 ### 📘 Favorite Blogs
 * [Kent C. Dodds](https://kentcdodds.com/)
