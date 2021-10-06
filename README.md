@@ -1,6 +1,6 @@
 # Hey there, my name is Michael 👋🏻
 
-I'm a Web App Developer currently living in 🌵 **Las Cruces, NM** (soon to be 🌴 **Los Angeles, CA**). I graduated with a 👨🏻‍🎓 **B.A. in Computer Science** from New Mexico State University in 2019. Since then, I've gone off the deep-end into the world of development and **absolutely love it!** I couldn't imagine doing anything else ❤️
+I'm a JavaScript Engineer currently living in 🌵 **Las Cruces, NM** (soon to be 🌴 **Los Angeles, CA**). I graduated with a 👨🏻‍🎓 **B.A. in Computer Science** from New Mexico State University in 2019. Since then, I've gone off the deep-end into the world of development and **absolutely love it!** I couldn't imagine doing anything else ❤️
 
 ### The current 🍞 bread and 🧈 butter
 
